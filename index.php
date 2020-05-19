@@ -10,7 +10,8 @@
     <button> change </button>
     <section>
 
-    mon contenu php de la branche n°3
+    mon contenu php de la branche n°3 
+    mon contenu ajusté
     </section>
 
 </body>
